@@ -1,0 +1,335 @@
+{
+  "name": "my",
+  "author": "Nirob",
+  "date": "04/10/2025",
+  "time": "18:15:52",
+  "clientVersion": "v1",
+  "clientName": "LightX",
+  "serverAddress": "N/A",
+  "protocolName": "1.20.1",
+  "protocolVersion": 763,
+  "type": "Custom",
+  "status": "Active",
+  "modules": {
+    "name": "modules",
+    "value": [
+      {
+        "name": "AutoClicker",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": true
+          }
+        ]
+      },
+      {
+        "name": "Killaura",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": true
+          },
+          {
+            "name": "Target Mode",
+            "value": "Players"
+          },
+          {
+            "name": "Range",
+            "value": 3.0
+          },
+          {
+            "name": "Speed",
+            "value": {
+              "min": 8.0,
+              "max": 12.0
+            }
+          },
+          {
+            "name": "Lock screen to target",
+            "value": false
+          },
+          {
+            "name": "Target players",
+            "value": true
+          },
+          {
+            "name": "Target mobs",
+            "value": false
+          },
+          {
+            "name": "Target invisible players",
+            "value": false
+          },
+          {
+            "name": "Send rotation packet",
+            "value": true
+          }
+        ]
+      },
+      {
+        "name": "Fly",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          },
+          {
+            "name": "Fly Mode",
+            "value": "Creative"
+          }
+        ]
+      },
+      {
+        "name": "Velocity",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": true
+          }
+        ]
+      },
+      {
+        "name": "SafeWalk",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "AntiVoid",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "ClickGui",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "Speed",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          },
+          {
+            "name": "Mode",
+            "value": "Vanilla"
+          }
+        ]
+      },
+      {
+        "name": "ServerCrash",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          },
+          {
+            "name": "Mode",
+            "value": "Vanilla"
+          }
+        ]
+      },
+      {
+        "name": "ServerInfo",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "Plugins",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "AntiCheatDetector",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "SpooferClient",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          },
+          {
+            "name": "Mode",
+            "value": "Vanilla"
+          }
+        ]
+      },
+      {
+        "name": "SpooferResourcePack",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "ESP",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": true
+          },
+          {
+            "name": "Players",
+            "value": true
+          },
+          {
+            "name": "Dead",
+            "value": false
+          },
+          {
+            "name": "Animals",
+            "value": false
+          },
+          {
+            "name": "Mobs",
+            "value": true
+          },
+          {
+            "name": "Invisible",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "Spider",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "ArrayList",
+        "value": [
+          {
+            "name": "Enabled",
+            "value": true
+          },
+          {
+            "name": "ArrayList Y",
+            "value": 9.0
+          },
+          {
+            "name": "Side",
+            "value": "Right"
+          },
+          {
+            "name": "EdgeSpacing",
+            "value": false
+          },
+          {
+            "name": "EdgeSpace",
+            "value": 5.0
+          },
+          {
+            "name": "SpaceName",
+            "value": false
+          },
+          {
+            "name": "Order",
+            "value": "Distance"
+          },
+          {
+            "name": "Animation",
+            "value": false
+          },
+          {
+            "name": "TagsStyle",
+            "value": "Space"
+          },
+          {
+            "name": "Background",
+            "value": 155.0
+          },
+          {
+            "name": "Rect",
+            "value": "Outline"
+          },
+          {
+            "name": "Rect-Left",
+            "value": "None"
+          },
+          {
+            "name": "Case",
+            "value": "None"
+          },
+          {
+            "name": "Space",
+            "value": 0.0
+          },
+          {
+            "name": "TextHeight",
+            "value": 11.0
+          },
+          {
+            "name": "TextY",
+            "value": 2.0
+          },
+          {
+            "name": "NoRenderModule",
+            "value": false
+          },
+          {
+            "name": "ColorMode",
+            "value": "Rainbow"
+          },
+          {
+            "name": "Speed",
+            "value": 15.0
+          },
+          {
+            "name": "Saturation",
+            "value": 0.7
+          },
+          {
+            "name": "Brightness",
+            "value": 1.0
+          },
+          {
+            "name": "FadeSpeed",
+            "value": 1.0
+          },
+          {
+            "name": "FadeIndex",
+            "value": 100.0
+          }
+        ]
+      }
+    ]
+  },
+  "chat": [
+    "§6§l▰▱ LightX Config ▱▰",
+    "§aConfig saved successfully!",
+    "§7Config: my"
+  ]
+}
