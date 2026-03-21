@@ -1,335 +1,261 @@
 {
-  "name": "my",
-  "author": "CodeBoris",
-  "date": "04/10/2025",
-  "time": "18:15:52",
-  "clientVersion": "v1",
-  "clientName": "LightX",
-  "serverAddress": "N/A",
-  "protocolName": "1.20.1",
-  "protocolVersion": 763,
-  "type": "Custom",
-  "status": "Active",
   "modules": {
-    "name": "modules",
-    "value": [
-      {
-        "name": "AutoClicker",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": true
-          }
-        ]
-      },
-      {
-        "name": "Killaura",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": true
-          },
-          {
-            "name": "Target Mode",
-            "value": "Players"
-          },
-          {
-            "name": "Range",
-            "value": 3.0
-          },
-          {
-            "name": "Speed",
-            "value": {
-              "min": 8.0,
-              "max": 12.0
-            }
-          },
-          {
-            "name": "Lock screen to target",
-            "value": false
-          },
-          {
-            "name": "Target players",
-            "value": true
-          },
-          {
-            "name": "Target mobs",
-            "value": false
-          },
-          {
-            "name": "Target invisible players",
-            "value": false
-          },
-          {
-            "name": "Send rotation packet",
-            "value": true
-          }
-        ]
-      },
-      {
-        "name": "Fly",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          },
-          {
-            "name": "Fly Mode",
-            "value": "Creative"
-          }
-        ]
-      },
-      {
-        "name": "Velocity",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": true
-          }
-        ]
-      },
-      {
-        "name": "SafeWalk",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "AntiVoid",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "ClickGui",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "Speed",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          },
-          {
-            "name": "Mode",
-            "value": "Vanilla"
-          }
-        ]
-      },
-      {
-        "name": "ServerCrash",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          },
-          {
-            "name": "Mode",
-            "value": "Vanilla"
-          }
-        ]
-      },
-      {
-        "name": "ServerInfo",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "Plugins",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "AntiCheatDetector",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "SpooferClient",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          },
-          {
-            "name": "Mode",
-            "value": "Vanilla"
-          }
-        ]
-      },
-      {
-        "name": "SpooferResourcePack",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "ESP",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": true
-          },
-          {
-            "name": "Players",
-            "value": true
-          },
-          {
-            "name": "Dead",
-            "value": false
-          },
-          {
-            "name": "Animals",
-            "value": false
-          },
-          {
-            "name": "Mobs",
-            "value": true
-          },
-          {
-            "name": "Invisible",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "Spider",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": false
-          }
-        ]
-      },
-      {
-        "name": "ArrayList",
-        "value": [
-          {
-            "name": "Enabled",
-            "value": true
-          },
-          {
-            "name": "ArrayList Y",
-            "value": 9.0
-          },
-          {
-            "name": "Side",
-            "value": "Right"
-          },
-          {
-            "name": "EdgeSpacing",
-            "value": false
-          },
-          {
-            "name": "EdgeSpace",
-            "value": 5.0
-          },
-          {
-            "name": "SpaceName",
-            "value": false
-          },
-          {
-            "name": "Order",
-            "value": "Distance"
-          },
-          {
-            "name": "Animation",
-            "value": false
-          },
-          {
-            "name": "TagsStyle",
-            "value": "Space"
-          },
-          {
-            "name": "Background",
-            "value": 155.0
-          },
-          {
-            "name": "Rect",
-            "value": "Outline"
-          },
-          {
-            "name": "Rect-Left",
-            "value": "None"
-          },
-          {
-            "name": "Case",
-            "value": "None"
-          },
-          {
-            "name": "Space",
-            "value": 0.0
-          },
-          {
-            "name": "TextHeight",
-            "value": 11.0
-          },
-          {
-            "name": "TextY",
-            "value": 2.0
-          },
-          {
-            "name": "NoRenderModule",
-            "value": false
-          },
-          {
-            "name": "ColorMode",
-            "value": "Rainbow"
-          },
-          {
-            "name": "Speed",
-            "value": 15.0
-          },
-          {
-            "name": "Saturation",
-            "value": 0.7
-          },
-          {
-            "name": "Brightness",
-            "value": 1.0
-          },
-          {
-            "name": "FadeSpeed",
-            "value": 1.0
-          },
-          {
-            "name": "FadeIndex",
-            "value": 100.0
-          }
-        ]
+    "NameHider": {
+      "enabled": false,
+      "options": {
+        "Gradient": {
+          "color": -8630785,
+          "color2": -11309570,
+          "mode": "GRADIENT"
+        },
+        "SpoofName": "Dev"
       }
-    ]
+    },
+    "AutoClicker": {
+      "enabled": true,
+      "options": {
+        "CPS": [
+          10.0,
+          14.0
+        ],
+        "Mode": "Normal",
+        "JitterStrength": 0.0,
+        "Chance": 100.0,
+        "BreakBlocks": false,
+        "WeaponOnly": true,
+        "Inventory": false,
+        "Debug": false
+      }
+    },
+    "InfiniteAura": {
+      "enabled": true,
+      "options": {
+        "Range": 20.0,
+        "CPS": [
+          15.0,
+          20.0
+        ],
+        "Mode": "Teleport",
+        "Sort": "Distance",
+        "Targets": 3.0,
+        "Delay": 100.0,
+        "Players": true,
+        "Mobs": false,
+        "Animals": false,
+        "Invisibles": false,
+        "ThroughWalls": true,
+        "KeepSprint": true,
+        "RenderTargets": true,
+        "Debug": false
+      }
+    },
+    "ESP": {
+      "enabled": false,
+      "options": {}
+    },
+    "YggdrasilSignatureFix": {
+      "enabled": false,
+      "options": {
+        "ForceSlimModel": true
+      }
+    },
+    "Criticals": {
+      "enabled": true,
+      "options": {
+        "Mode": "Packet",
+        "Delay": 0.0,
+        "Chance": 100.0,
+        "OnlyWhileMoving": false,
+        "WeaponOnly": true,
+        "Particles": true
+      }
+    },
+    "Sprint": {
+      "enabled": false,
+      "options": {
+        "Mode": "Legit",
+        "Speed": 1.0
+      }
+    },
+    "Velocity": {
+      "enabled": true,
+      "options": {
+        "Mode": "Normal",
+        "Horizontal": 0.0,
+        "Vertical": 0.0,
+        "Chance": 100.0,
+        "Delay": 0.0,
+        "OnlyWhileMoving": false,
+        "OnlyWhileGround": false,
+        "Explosion": true,
+        "Projectiles": true,
+        "Debug": false
+      }
+    },
+    "ArrayList": {
+      "enabled": true,
+      "options": {
+        "Font": "Outfit",
+        "Row Spacing": 0.0,
+        "Side": "Right",
+        "Text Mode": "Theme",
+        "Text Color": {
+          "color": -16746497,
+          "color2": -16746497,
+          "mode": "SOLID"
+        },
+        "Text Gradient": {
+          "color": -6723841,
+          "color2": -12276993,
+          "mode": "GRADIENT"
+        },
+        "Text Gradient Speed": 1.0,
+        "Text Shadow": true,
+        "Module Case": "Normal",
+        "Rect Mode": "Right",
+        "Rect Radius": 1.0,
+        "Rect Color Mode": "Theme",
+        "Rect Color": {
+          "color": -6723841,
+          "color2": -6723841,
+          "mode": "SOLID"
+        },
+        "Rect Gradient": {
+          "color": -6723841,
+          "color2": -12276993,
+          "mode": "GRADIENT"
+        },
+        "Rect Gradient Speed": 1.0,
+        "Background Mode": "Custom",
+        "Background Color": {
+          "color": -1728053248,
+          "color2": -1728053248,
+          "mode": "SOLID"
+        },
+        "BG Gradient": {
+          "color": -1441722061,
+          "color2": -1439485082,
+          "mode": "GRADIENT"
+        },
+        "BG Radius": 0.0,
+        "BG Gradient Speed": 1.0,
+        "Random Saturation": 0.9,
+        "Random Brightness": 1.0,
+        "Display Icons": true,
+        "Icon Shadows": true,
+        "Shadow X": 0.5,
+        "Shadow Y": 0.5,
+        "Icon Shadow Color": {
+          "color": -2147483648,
+          "color2": -2147483648,
+          "mode": "SOLID"
+        },
+        "Icon Color Mode": "Theme",
+        "Icon Color": {
+          "color": -1,
+          "color2": -1,
+          "mode": "SOLID"
+        },
+        "Icon Gradient": {
+          "color": -6723841,
+          "color2": -12276993,
+          "mode": "GRADIENT"
+        },
+        "Icon Gradient Speed": 1.0,
+        "Icon Radius": 0.0,
+        "Tags": true,
+        "Tag Style": "Space",
+        "Tag Case": "Normal",
+        "Anim Speed": 0.2,
+        "Theme Anim Speed": 1.0
+      }
+    },
+    "Disabler": {
+      "enabled": false,
+      "options": {}
+    },
+    "Speed": {
+      "enabled": false,
+      "options": {}
+    },
+    "Timer": {
+      "enabled": false,
+      "options": {
+        "Speed": 1.0
+      }
+    },
+    "Fly": {
+      "enabled": false,
+      "options": {
+        "Enabled": true,
+        "Mode": "Vanilla",
+        "Speed": 1.0,
+        "VerticalSpeed": 0.5,
+        "GlideSpeed": 0.3,
+        "Smooth": true,
+        "SmoothFactor": 0.5,
+        "BoostPower": 2.0,
+        "BoostDelay": 500.0,
+        "MinBoost": 1.0,
+        "MaxBoost": 5.0
+      }
+    },
+    "ClickGUI": {
+      "enabled": false,
+      "options": {}
+    },
+    "FullBright": {
+      "enabled": false,
+      "options": {}
+    },
+    "KillAura": {
+      "enabled": true,
+      "options": {
+        "Range": 3.5,
+        "WallRange": 3.0,
+        "CPS": [
+          12.0,
+          16.0
+        ],
+        "Mode": "Single",
+        "Sort": "Distance",
+        "Rotations": "Normal",
+        "FOV": 180.0,
+        "SwitchDelay": 300.0,
+        "HurtTime": 10.0,
+        "AutoBlock": false,
+        "KeepSprint": true,
+        "Players": true,
+        "Mobs": false,
+        "Animals": false,
+        "Invisibles": false,
+        "ThroughWalls": false,
+        "Raycast": true,
+        "Debug": false
+      }
+    },
+    "NoFall": {
+      "enabled": true,
+      "options": {
+        "Mode": "Packet"
+      }
+    }
   },
-  "chat": [
-    "§6§l▰▱ LightX Config ▱▰",
-    "§aConfig saved successfully!",
-    "§7Config: my"
-  ]
+  "_metadata": {
+    "clientName": "LightX",
+    "clientVersion": "beta-v1-0.1",
+    "author": "codeboris",
+    "date": "2026-03-21",
+    "time": "13:07:51",
+    "serverAddress": "N/A",
+    "protocolName": "1.21.11",
+    "protocolVersion": "774",
+    "type": "Full",
+    "status": "Stable",
+    "chat": [
+      "§6§l▰▱ LightX Config ▱▰",
+      "§aConfig Loaded successfully!",
+      "§7Config: polar"
+    ]
+  }
 }
