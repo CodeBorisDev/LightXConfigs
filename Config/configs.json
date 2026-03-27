@@ -20,5 +20,75 @@
     "serverAddress": "N/A",
     "type": "Custom",
     "status": "Active"
+  },
+
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-003","configname": "config3","date": "04/10/2025","time": "18:16:03","serverAddress": "test.server.com","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-004","configname": "config4","date": "04/10/2025","time": "18:16:14","serverAddress": "mc.example.net","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-005","configname": "config5","date": "04/10/2025","time": "18:16:25","serverAddress": "play.server.org","type": "Preset","status": "Inactive"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-006","configname": "config6","date": "04/10/2025","time": "18:16:36","serverAddress": "hypixel.net","type": "Preset","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-007","configname": "config7","date": "04/10/2025","time": "18:16:47","serverAddress": "mineplex.com","type": "Preset","status": "Active"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-008","configname": "config8","date": "04/10/2025","time": "18:16:58","serverAddress": "localhost","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-009","configname": "config9","date": "04/10/2025","time": "18:17:09","serverAddress": "dev.server","type": "Custom","status": "Inactive"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-010","configname": "config10","date": "04/10/2025","time": "18:17:20","serverAddress": "test.node","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-011","configname": "config11","date": "04/10/2025","time": "18:17:31","serverAddress": "prod.server","type": "Preset","status": "Active"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-012","configname": "config12","date": "04/10/2025","time": "18:17:42","serverAddress": "staging.env","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-013","configname": "config13","date": "04/10/2025","time": "18:17:53","serverAddress": "backup.server","type": "Preset","status": "Inactive"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-014","configname": "config14","date": "04/10/2025","time": "18:18:04","serverAddress": "alpha.test","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-015","configname": "config15","date": "04/10/2025","time": "18:18:15","serverAddress": "beta.test","type": "Custom","status": "Active"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-016","configname": "config16","date": "04/10/2025","time": "18:18:26","serverAddress": "gamma.net","type": "Preset","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-017","configname": "config17","date": "04/10/2025","time": "18:18:37","serverAddress": "delta.net","type": "Preset","status": "Inactive"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-018","configname": "config18","date": "04/10/2025","time": "18:18:48","serverAddress": "epsilon.dev","type": "Custom","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-019","configname": "config19","date": "04/10/2025","time": "18:18:59","serverAddress": "zeta.dev","type": "Custom","status": "Active"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-020","configname": "config20","date": "04/10/2025","time": "18:19:10","serverAddress": "eta.server","type": "Preset","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-021","configname": "config21","date": "04/10/2025","time": "18:19:21","serverAddress": "theta.server","type": "Custom","status": "Inactive"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-022","configname": "config22","date": "04/10/2025","time": "18:19:32","serverAddress": "iota.net","type": "Preset","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-023","configname": "config23","date": "04/10/2025","time": "18:19:43","serverAddress": "kappa.net","type": "Custom","status": "Active"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-024","configname": "config24","date": "04/10/2025","time": "18:19:54","serverAddress": "lambda.dev","type": "Preset","status": "Testing"
+  },
+  {
+    "github_user": "CodeBorisDev","author": "CodeBorisDev","id": "lightx-config-025","configname": "config25","date": "04/10/2025","time": "18:20:05","serverAddress": "omega.final","type": "Custom","status": "Inactive"
   }
 ]
